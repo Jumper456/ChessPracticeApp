@@ -1,3 +1,5 @@
+import static java.lang.System.*;
+
 //Pozycja figury na szachownicy
 public class Position{
     //TODO pytanie czy pusta klasa Position coś wnosi, skoro dopiero pochodne dadzą jakiekolwiek pola

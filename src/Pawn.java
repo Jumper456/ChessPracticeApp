@@ -1,3 +1,6 @@
+import static java.lang.System.*;
+
+//Pionek
 public class Pawn extends ChessPiece {
 
     @Override

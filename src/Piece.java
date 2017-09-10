@@ -1,4 +1,4 @@
-
+import static java.lang.System.*;
 
 // klasa reprezentująca figurę
 public abstract class Piece {

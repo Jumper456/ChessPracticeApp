@@ -1,3 +1,6 @@
+import static java.lang.System.*;
+
+//Goniec
 public class Bishop extends ChessPiece {
 
     @Override

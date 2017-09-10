@@ -1,3 +1,6 @@
+import static java.lang.System.*;
+
+//Król
 public class King extends ChessPiece {
 
     @Override

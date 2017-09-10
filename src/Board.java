@@ -1,8 +1,11 @@
+import static java.lang.System.*;
+
 //pole gry, np. szachownica, pole hexagonalna itp, klasa bazowa
 public class Board {
 
     //utworzenie pola gry ma wygenerować i rozstawić bierki oraz narysować pole gry
     public Board() {
+        out.println("Board inicjalizacja");
         Initialize();
         Paint();
     }
